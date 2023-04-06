@@ -24,7 +24,10 @@ class MainActivity : AppCompatActivity() {
     private fun initViews() {
 
         binding.btnSetBackground.setOnClickListener {
-           binding.root.setBackgroundColor(getRandomColor())
+            binding.root.setBackgroundColor(getRandomColor())
+        }
+
+        binding.ibMiuLogo.setOnClickListener {
             binding.ibMiuLogo.setBackgroundColor(getRandomColor())
         }
     }

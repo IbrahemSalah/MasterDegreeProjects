@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Ibrahem Salah 615885 Assignment3</string>
+    <string name="password_required">Password (required)</string>
+    <string name="email_address_required">Email address (required)</string>
+    <string name="forget_password">Forget password?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="don_t_have_account">Don\'t have an account?</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="sign_into_your_account">Sign into your account</string>
+    <string name="welcome_tim_miu_edu">Welcome tim@miu.edu</string>
+    <string name="shop_by_categories">Shop by categories</string>
+    <string name="medicines">Medicines</string>
+    <string name="organic_food">Organic Food</string>
+    <string name="books">Books</string>
+    <string name="clothing">Clothing</string>
+    <string name="create_your_account">Create your account</string>
+    <string name="required_filed">* required filed</string>
+    <string name="email_address">Email address*</string>
+    <string name="password">Password*</string>
+    <string name="first_name">First name*</string>
+    <string name="last_name">Last name*</string>
+    <string name="create_account">Create Account</string>
+    <string name="first_number">First Number</string>
+    <string name="write_your_first_number_here">Write Your First Number Here</string>
+    <string name="second_number">Second Number</string>
+    <string name="result">Result:</string>
+    <string name="add_operation">+</string>
+    <string name="minus_operation">-</string>
+    <string name="multiplie_operation">*</string>
+    <string name="divide_operation">/</string>
+</resources>
