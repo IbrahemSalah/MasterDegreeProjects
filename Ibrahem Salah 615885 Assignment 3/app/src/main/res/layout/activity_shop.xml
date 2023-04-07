@@ -47,6 +47,7 @@
             android:orientation="horizontal">
 
             <LinearLayout
+                android:id="@+id/ll_books"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginHorizontal="24dp"
@@ -70,6 +71,7 @@
             </LinearLayout>
 
             <LinearLayout
+                android:id="@+id/ll_clothing"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginHorizontal="24dp"
@@ -103,6 +105,7 @@
             android:orientation="horizontal">
 
             <LinearLayout
+                android:id="@+id/ll_food"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginHorizontal="24dp"
@@ -126,6 +129,7 @@
             </LinearLayout>
 
             <LinearLayout
+                android:id="@+id/ll_medicines"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginHorizontal="24dp"

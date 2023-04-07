@@ -80,6 +80,7 @@
 
 
         <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btn_sign_in"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="48dp"
@@ -124,6 +125,7 @@
         </androidx.appcompat.widget.LinearLayoutCompat>
 
         <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btn_sign_up"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/create_a_new_account"
