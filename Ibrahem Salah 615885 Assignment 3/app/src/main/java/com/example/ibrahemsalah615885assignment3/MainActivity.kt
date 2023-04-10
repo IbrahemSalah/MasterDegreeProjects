@@ -120,7 +120,7 @@ class MainActivity : AppCompatActivity() {
         intent.data = Uri.parse("mailto:")
         intent.putExtra(Intent.EXTRA_EMAIL, email)
         intent.putExtra(Intent.EXTRA_SUBJECT, subject)
-        intent.putExtra(Intent.EXTRA_SUBJECT, subject)
+        intent.putExtra(Intent.EXTRA_TEXT, AuthDB.getPasswordForEmail(email))
         if (intent.resolveActivity(packageManager) != null) {
             startActivity(intent)
         }
