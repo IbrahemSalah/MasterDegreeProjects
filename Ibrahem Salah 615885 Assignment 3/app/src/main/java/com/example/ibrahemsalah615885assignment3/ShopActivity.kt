@@ -1,5 +1,6 @@
 package com.example.ibrahemsalah615885assignment3
 
+import android.content.Intent
 import android.os.Build
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -32,7 +33,8 @@ class ShopActivity : AppCompatActivity() {
         binding?.tvWelcome?.text = welcomeMsg
 
         binding?.llBooks?.setOnClickListener {
-            Toast.makeText(this, "Books Clicked", Toast.LENGTH_SHORT).show()
+            val intent = Intent(this, ListViewDetailsActivity::class.java)
+            startActivity(intent)
         }
 
         binding?.llClothing?.setOnClickListener {
@@ -40,7 +42,8 @@ class ShopActivity : AppCompatActivity() {
         }
 
         binding?.llFood?.setOnClickListener {
-            Toast.makeText(this, "Food Clicked", Toast.LENGTH_SHORT).show()
+            val intent = Intent(this, OrganicDrinksListActivity::class.java)
+            startActivity(intent)
         }
 
         binding?.llMedicines?.setOnClickListener {

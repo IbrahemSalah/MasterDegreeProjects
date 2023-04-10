@@ -1,4 +1,29 @@
 <resources>
+
+    <string-array name="book_list">
+        <item>Maharishi</item>
+        <item>Dr Tony Nader</item>
+        <item>Scientific Research Consciousness, Knowledge and Enlightenment</item>
+        <item>Modern Science and Vedic Science</item>
+        <item>Book Series</item>
+        <item>Other Authors</item>
+        <item>Clearance</item>
+        <item>Maharishi</item>
+        <item>Dr Tony Nader</item>
+        <item>Scientific Research Consciousness, Knowledge and Enlightenment</item>
+        <item>Modern Science and Vedic Science</item>
+        <item>Book Series</item>
+        <item>Other Authors</item>
+        <item>Clearance</item>
+        <item>Maharishi</item>
+        <item>Dr Tony Nader</item>
+        <item>Scientific Research Consciousness, Knowledge and Enlightenment</item>
+        <item>Modern Science and Vedic Science</item>
+        <item>Book Series</item>
+        <item>Other Authors</item>
+        <item>Clearance</item>
+    </string-array>
+
     <string name="app_name">Ibrahem Salah 615885 Assignment3</string>
     <string name="password_required">Password (required)</string>
     <string name="email_address_required">Email address (required)</string>
@@ -29,4 +54,7 @@
     <string name="multiplie_operation">*</string>
     <string name="divide_operation">/</string>
     <string name="welcome">\"Welcome: \"</string>
+    <string name="price">Price: $</string>
+    <string name="item_id">Item ID: #</string>
+    <string name="key_benefits">Key Benefits:</string>
 </resources>
