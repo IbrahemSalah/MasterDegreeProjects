@@ -12,7 +12,7 @@ data class MIUUser(
 ) : Parcelable {
     override fun equals(other: Any?): Boolean {
         val miuUser = other as MIUUser
-
+        //change to add in dummy commit
         return (this.userName.lowercase() == miuUser.userName.lowercase()
                 && this.password.lowercase() == miuUser.password.lowercase())
     }
