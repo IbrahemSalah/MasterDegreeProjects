@@ -7,12 +7,114 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:layout_width="wrap_content"
+        android:id="@+id/tv_question1"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginStart="36dp"
+        android:layout_marginTop="28dp"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:text="Which of the following is NOT a primitive data type in Kotlin?"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
+    <RadioGroup
+        android:id="@+id/radioGroup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+
+        app:layout_constraintStart_toStartOf="@+id/tv_question1"
+        app:layout_constraintTop_toBottomOf="@+id/tv_question1"
+        android:layout_marginTop="20sp"
+        >
+
+        <RadioButton
+            android:id="@+id/rb1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Integer" />
+
+        <RadioButton
+            android:id="@+id/rb2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Double" />
+
+        <RadioButton
+            android:id="@+id/rb3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Object" />
+    </RadioGroup>
+
+    <CheckBox
+        android:id="@+id/cb_answer1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Public"
+        app:layout_constraintStart_toStartOf="@+id/tv_question1"
+        app:layout_constraintTop_toBottomOf="@+id/tv_question2" />
+
+    <TextView
+        android:id="@+id/tv_question2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="44dp"
+        android:text="Which of the following IS a valid visibility modifier in Kotlin?"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="@+id/tv_question1"
+        app:layout_constraintTop_toBottomOf="@+id/radioGroup" />
+
+    <CheckBox
+        android:id="@+id/cb_answer3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Private"
+        app:layout_constraintStart_toStartOf="@+id/cb_answer2"
+        app:layout_constraintTop_toBottomOf="@+id/cb_answer2" />
+
+    <CheckBox
+        android:id="@+id/cb_answer2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:text="Package-Private"
+        app:layout_constraintStart_toStartOf="@+id/cb_answer1"
+        app:layout_constraintTop_toBottomOf="@+id/cb_answer1" />
+
+    <CheckBox
+        android:id="@+id/cb_answer4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Protected"
+        app:layout_constraintStart_toStartOf="@+id/cb_answer3"
+        app:layout_constraintTop_toBottomOf="@+id/cb_answer3" />
+
+    <Button
+        android:id="@+id/btn_submit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="128dp"
+        android:text="Submit"
+        app:layout_constraintStart_toStartOf="@+id/cb_answer4"
+        app:layout_constraintTop_toBottomOf="@+id/cb_answer4" />
+
+    <Button
+        android:id="@+id/btn_reset"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="36dp"
+        android:text="Reset"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/btn_submit" />
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
