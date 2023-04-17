@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Assignment 6</string>
+    <string name="app_name">Curriculum Vitae</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
 
     <string name="connection_refused">Connection refused</string>
@@ -9,4 +9,13 @@
     <string name="something_went_wrong">Something went wrong</string>
     <string name="loading">loading...</string>
     <string name="contacts">My Contacts</string>
+    <string name="contact">Contact</string>
+    <string name="work">Work</string>
+    <string name="about_me">About Me</string>
+    <string name="home">Home</string>
+    <string name="james_stark">James Stark</string>
+    <string name="software_engineer">Software Engineer</string>
+    <string name="career_note">Career note</string>
+    <string name="career_note_text"><b>Completed</b> on-campus studies and currently taking distance education course in computer a Master\'s degree in Computer Science (Available for full-time, <b>W-2</b> employment)</string>
+
 </resources>
