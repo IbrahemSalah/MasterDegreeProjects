@@ -2,7 +2,7 @@
 buildscript {
 
     ext {
-        kotlin_version = '1.4.31'
+        kotlin_version = '1.8.20'
     }
     ext.versions = [
             'minSdk'           : 25,
@@ -46,7 +46,7 @@ buildscript {
 
             ],
             support   : [
-                    'appCompat'       : 'androidx.appcompat:appcompat:1.2.0',
+                    'appCompat'       : 'androidx.appcompat:appcompat:1.6.1',
                     'constraintlayout': 'androidx.constraintlayout:constraintlayout:2.0.4',
                     'recyclerView'    : 'androidx.recyclerview:recyclerview:1.0.0',
                     'cardView'        : 'androidx.cardview:cardview:1.0.0',
