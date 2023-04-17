@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/build/intermediates/incremental/mergeDummyDebugResources/stripped.dir/layout/fragment_work.xml",
+        "source": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/src/main/res/layout/fragment_work.xml"
+    },
+    {
+        "merged": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/build/intermediates/incremental/mergeDummyDebugResources/stripped.dir/layout/fragment_home.xml",
+        "source": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/build/intermediates/incremental/mergeDummyDebugResources/stripped.dir/layout/activity_home.xml",
+        "source": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/build/intermediates/incremental/mergeDummyDebugResources/stripped.dir/layout/progress_dialog_view.xml",
+        "source": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/src/main/res/layout/progress_dialog_view.xml"
+    },
+    {
+        "merged": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/build/intermediates/incremental/mergeDummyDebugResources/stripped.dir/layout/fragment_contact.xml",
+        "source": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/src/main/res/layout/fragment_contact.xml"
+    },
+    {
+        "merged": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/build/intermediates/incremental/mergeDummyDebugResources/stripped.dir/layout/fragment_about_me.xml",
+        "source": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/src/main/res/layout/fragment_about_me.xml"
+    }
+]
