@@ -28,18 +28,17 @@ class ContactAdapter(var contacts: ArrayList<Contact>) :
     override fun onBindViewHolder(holder: ContactAdapter.ContactViewHolder, position: Int) {
         holder.link.text = contacts[position].link
         holder.description.text = contacts[position].description
+
+        holder.link.setBackgroundColor(Color.TRANSPARENT)
+
+        holder.description.setBackgroundColor(Color.TRANSPARENT)
+
         holder.icon.setImageResource(contacts[position].imageId)
-        if (position == 0) {
-            holder.link.setBackgroundColor(Color.DKGRAY)
-            holder.description.setBackgroundColor(Color.TRANSPARENT)
-        }
+
     }
 
     override fun getItemCount() = contacts.size
 
-    /*  override fun getItemCount(): Int {
-          return books.size
-      }*/
     inner class ContactViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
         var link: TextView = itemView.findViewById(R.id.tv_link)
         var description: TextView = itemView.findViewById(R.id.tv_description)
