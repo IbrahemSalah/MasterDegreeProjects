@@ -2507,6 +2507,7 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable envelope
 drawable fui_ic_anonymous_white_24dp
 drawable fui_ic_apple_white_24dp
 drawable fui_ic_check_circle_black_128dp
@@ -2528,6 +2529,7 @@ drawable fui_idp_button_background_microsoft
 drawable fui_idp_button_background_phone
 drawable fui_idp_button_background_twitter
 drawable fui_idp_button_background_yahoo
+drawable github
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
 drawable ic_baseline_remove_24
@@ -2542,6 +2544,7 @@ drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable linkedin
 drawable m3_appbar_background
 drawable m3_popupmenu_background_overlay
 drawable m3_radiobutton_ripple
@@ -2583,6 +2586,7 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable phone
 drawable test_custom_background
 drawable test_level_drawable
 drawable tooltip_frame_dark
