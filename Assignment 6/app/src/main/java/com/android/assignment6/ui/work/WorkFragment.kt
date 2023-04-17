@@ -4,6 +4,7 @@ import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.recyclerview.widget.LinearLayoutManager
 import com.android.assignment6.databinding.FragmentWorkBinding
 import com.android.assignment6.ui.base.BaseViewModelFragment
 import com.android.assignment6.ui.home.HomeViewModel
@@ -19,5 +20,15 @@ class WorkFragment : BaseViewModelFragment<HomeViewModel, FragmentWorkBinding>(
     ): View {
         _binding = FragmentWorkBinding.inflate(layoutInflater)
         return binding.root
+
+    }
+
+    override fun initViews() {
+
+        val workAdapter = WorkAdapter(
+            WorkDataSource.workList, requireContext()
+        )
+        binding.workRecyclerView.layoutManager = LinearLayoutManager(activity)
+        binding.workRecyclerView.adapter = workAdapter
     }
 }
