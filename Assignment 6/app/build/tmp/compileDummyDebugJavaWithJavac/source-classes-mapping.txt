@@ -1,0 +1,25 @@
+com/android/assignment6/data/database/AppDatabase_Impl.java
+ com.android.assignment6.data.database.AppDatabase_Impl
+ com.android.assignment6.data.database.AppDatabase_Impl$1
+com/android/assignment6/data/database/BaseAppDao_Impl.java
+ com.android.assignment6.data.database.BaseAppDao_Impl
+com/android/assignment6/util/NetworkMonitoringUtil.java
+ com.android.assignment6.util.NetworkMonitoringUtil
+com/android/assignment6/databinding/ActivityHomeBinding.java
+ com.android.assignment6.databinding.ActivityHomeBinding
+com/android/assignment6/BuildConfig.java
+ com.android.assignment6.BuildConfig
+com/android/assignment6/util/HelperFunctionJava.java
+ com.android.assignment6.util.HelperFunctionJava
+com/android/assignment6/util/NetworkStateManager.java
+ com.android.assignment6.util.NetworkStateManager
+com/android/assignment6/databinding/FragmentWorkBinding.java
+ com.android.assignment6.databinding.FragmentWorkBinding
+com/android/assignment6/databinding/FragmentContactBinding.java
+ com.android.assignment6.databinding.FragmentContactBinding
+com/android/assignment6/databinding/ProgressDialogViewBinding.java
+ com.android.assignment6.databinding.ProgressDialogViewBinding
+com/android/assignment6/databinding/FragmentHomeBinding.java
+ com.android.assignment6.databinding.FragmentHomeBinding
+com/android/assignment6/databinding/FragmentAboutMeBinding.java
+ com.android.assignment6.databinding.FragmentAboutMeBinding
