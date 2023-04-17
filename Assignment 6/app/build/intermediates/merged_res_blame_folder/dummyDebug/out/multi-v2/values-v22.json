@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/build/intermediates/incremental/mergeDummyDebugResources/merged.dir/values-v22/values-v22.xml",
+            "outputFile": "com.android.assignment6.app-mergeDummyDebugResources-50:/values-v22/values-v22.xml",
             "map": [
                 {
-                    "source": "/Users/ibrahemsalah/.gradle/caches/transforms-3/adbdeb593a63045aa0472a030b450c18/transformed/appcompat-1.4.1/res/values-v22/values-v22.xml",
+                    "source": "C:\\Users\\taha\\.gradle\\caches\\transforms-3\\a44caabfcaeb2cbbd6b639b0c4db88bc\\transformed\\appcompat-1.4.1\\res\\values-v22\\values-v22.xml",
                     "from": {
                         "startLines": "2,3,4,9",
                         "startColumns": "4,4,4,4",
@@ -12,6 +12,14 @@
                         "endLines": "2,3,8,13",
                         "endColumns": "74,86,12,12",
                         "endOffsets": "125,212,548,896"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,487",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,482,764"
                     }
                 }
             ]

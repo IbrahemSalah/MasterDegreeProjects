@@ -7,7 +7,7 @@ public final class PrefDataSourceImp implements com.android.assignment6.data.sha
     private final android.content.Context context = null;
     private final kotlin.Lazy prefManager$delegate = null;
     
-    public PrefDataSourceImp(@org.jetbrains.annotations.NotNull()
+    public PrefDataSourceImp(@org.jetbrains.annotations.NotNull
     android.content.Context context) {
         super();
     }
@@ -16,29 +16,29 @@ public final class PrefDataSourceImp implements com.android.assignment6.data.sha
         return null;
     }
     
-    @org.jetbrains.annotations.NotNull()
-    @java.lang.Override()
+    @org.jetbrains.annotations.NotNull
+    @java.lang.Override
     public java.lang.String getToken() {
         return null;
     }
     
-    @java.lang.Override()
-    public void setToken(@org.jetbrains.annotations.NotNull()
+    @java.lang.Override
+    public void setToken(@org.jetbrains.annotations.NotNull
     java.lang.String token) {
     }
     
-    @org.jetbrains.annotations.Nullable()
-    @java.lang.Override()
+    @org.jetbrains.annotations.Nullable
+    @java.lang.Override
     public com.android.assignment6.data.model.BaseAppResponse getSharedPrefBaseAppResponse() {
         return null;
     }
     
-    @java.lang.Override()
-    public void setSharedPrefBaseAppResponse(@org.jetbrains.annotations.NotNull()
+    @java.lang.Override
+    public void setSharedPrefBaseAppResponse(@org.jetbrains.annotations.NotNull
     com.android.assignment6.data.model.BaseAppResponse baseAppResponse) {
     }
     
-    @java.lang.Override()
+    @java.lang.Override
     public void logOut() {
     }
     
@@ -72,11 +72,11 @@ public final class PrefDataSourceImp implements com.android.assignment6.data.sha
     
     @kotlin.Metadata(mv = {1, 6, 0}, k = 1, d1 = {"\u0000\u0014\n\u0002\u0018\u0002\n\u0002\u0010\u0000\n\u0002\b\u0002\n\u0002\u0010\u000e\n\u0002\b\u0002\b\u00c6\u0002\u0018\u00002\u00020\u0001B\u0007\b\u0002\u00a2\u0006\u0002\u0010\u0002R\u000e\u0010\u0003\u001a\u00020\u0004X\u0086T\u00a2\u0006\u0002\n\u0000R\u000e\u0010\u0005\u001a\u00020\u0004X\u0086T\u00a2\u0006\u0002\n\u0000\u00a8\u0006\u0006"}, d2 = {"Lcom/android/assignment6/data/sharedpref/PrefDataSourceImp$Constants;", "", "()V", "BASE_APP_RESPONSE", "", "TOKEN_PREF", "app_dummyDebug"})
     public static final class Constants {
-        @org.jetbrains.annotations.NotNull()
+        @org.jetbrains.annotations.NotNull
         public static final com.android.assignment6.data.sharedpref.PrefDataSourceImp.Constants INSTANCE = null;
-        @org.jetbrains.annotations.NotNull()
+        @org.jetbrains.annotations.NotNull
         public static final java.lang.String TOKEN_PREF = "pref_token";
-        @org.jetbrains.annotations.NotNull()
+        @org.jetbrains.annotations.NotNull
         public static final java.lang.String BASE_APP_RESPONSE = "base_app_response";
         
         private Constants() {

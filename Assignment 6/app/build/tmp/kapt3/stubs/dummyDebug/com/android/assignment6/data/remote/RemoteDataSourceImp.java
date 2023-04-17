@@ -6,14 +6,14 @@ import java.lang.System;
 public final class RemoteDataSourceImp implements com.android.assignment6.data.remote.RemoteDataSource {
     private final com.android.assignment6.data.remote.BaseAppAPI remoteApi = null;
     
-    public RemoteDataSourceImp(@org.jetbrains.annotations.NotNull()
+    public RemoteDataSourceImp(@org.jetbrains.annotations.NotNull
     com.android.assignment6.data.remote.BaseAppAPI remoteApi) {
         super();
     }
     
-    @org.jetbrains.annotations.Nullable()
-    @java.lang.Override()
-    public java.lang.Object getBaseAppResponse(@org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.Nullable
+    @java.lang.Override
+    public java.lang.Object getBaseAppResponse(@org.jetbrains.annotations.NotNull
     kotlin.coroutines.Continuation<? super retrofit2.Response<com.android.assignment6.data.model.BaseAppResponse>> continuation) {
         return null;
     }

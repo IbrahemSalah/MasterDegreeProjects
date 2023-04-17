@@ -6,24 +6,24 @@ import java.lang.System;
 public class BaseViewModel extends androidx.lifecycle.ViewModel {
     private final kotlinx.coroutines.channels.Channel<com.android.assignment6.ui.base.Loading> mutableLoading = null;
     private final kotlinx.coroutines.channels.Channel<com.android.assignment6.data.model.FailureException> _error = null;
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     private final kotlinx.coroutines.CoroutineExceptionHandler handler = null;
     
     public BaseViewModel() {
         super();
     }
     
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public final kotlinx.coroutines.flow.Flow<com.android.assignment6.ui.base.Loading> getLoading() {
         return null;
     }
     
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public final kotlinx.coroutines.flow.Flow<com.android.assignment6.data.model.FailureException> getError() {
         return null;
     }
     
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public final kotlinx.coroutines.CoroutineExceptionHandler getHandler$app_dummyDebug() {
         return null;
     }

@@ -14,44 +14,44 @@ public class BaseActivity extends androidx.appcompat.app.AppCompatActivity {
         return null;
     }
     
-    @java.lang.Override()
-    protected void onCreate(@org.jetbrains.annotations.Nullable()
+    @java.lang.Override
+    protected void onCreate(@org.jetbrains.annotations.Nullable
     android.os.Bundle savedInstanceState) {
     }
     
-    @java.lang.Override()
+    @java.lang.Override
     protected void onResume() {
     }
     
-    @java.lang.Override()
-    protected void attachBaseContext(@org.jetbrains.annotations.NotNull()
+    @java.lang.Override
+    protected void attachBaseContext(@org.jetbrains.annotations.NotNull
     android.content.Context newBase) {
     }
     
-    @java.lang.Override()
-    public void onConfigurationChanged(@org.jetbrains.annotations.NotNull()
+    @java.lang.Override
+    public void onConfigurationChanged(@org.jetbrains.annotations.NotNull
     android.content.res.Configuration newConfig) {
     }
     
-    @org.jetbrains.annotations.NotNull()
-    @java.lang.Override()
+    @org.jetbrains.annotations.NotNull
+    @java.lang.Override
     public android.content.Context getBaseContext() {
         return null;
     }
     
-    @org.jetbrains.annotations.NotNull()
-    @java.lang.Override()
+    @org.jetbrains.annotations.NotNull
+    @java.lang.Override
     public android.content.Context getApplicationContext() {
         return null;
     }
     
-    @org.jetbrains.annotations.NotNull()
-    @java.lang.Override()
+    @org.jetbrains.annotations.NotNull
+    @java.lang.Override
     public android.content.res.Resources getResources() {
         return null;
     }
     
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public final java.util.Locale getCurrentLanguage() {
         return null;
     }

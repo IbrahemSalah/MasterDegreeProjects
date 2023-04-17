@@ -6,46 +6,46 @@ import java.lang.System;
 public final class NetworkConnectionInterceptor implements okhttp3.Interceptor, org.koin.core.component.KoinComponent {
     private final android.content.Context context = null;
     private final com.android.assignment6.util.NetworkHelper network = null;
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     private final kotlin.Lazy sessionManager$delegate = null;
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     private final kotlin.Lazy repository$delegate = null;
     
-    public NetworkConnectionInterceptor(@org.jetbrains.annotations.NotNull()
-    android.content.Context context, @org.jetbrains.annotations.NotNull()
+    public NetworkConnectionInterceptor(@org.jetbrains.annotations.NotNull
+    android.content.Context context, @org.jetbrains.annotations.NotNull
     com.android.assignment6.util.NetworkHelper network) {
         super();
     }
     
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public final com.android.assignment6.data.SessionManager getSessionManager() {
         return null;
     }
     
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public final com.android.assignment6.data.repositories.Repository getRepository() {
         return null;
     }
     
-    @org.jetbrains.annotations.NotNull()
-    public final java.util.Locale getLanguage(@org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
+    public final java.util.Locale getLanguage(@org.jetbrains.annotations.NotNull
     android.content.Context context) {
         return null;
     }
     
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public final java.lang.String getcurrentlangauge() {
         return null;
     }
     
-    @org.jetbrains.annotations.NotNull()
-    @java.lang.Override()
-    public okhttp3.Response intercept(@org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
+    @java.lang.Override
+    public okhttp3.Response intercept(@org.jetbrains.annotations.NotNull
     okhttp3.Interceptor.Chain chain) {
         return null;
     }
     
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public org.koin.core.Koin getKoin() {
         return null;
     }

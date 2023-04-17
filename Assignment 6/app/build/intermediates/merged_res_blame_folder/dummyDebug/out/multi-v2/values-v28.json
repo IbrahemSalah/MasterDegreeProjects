@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/build/intermediates/incremental/mergeDummyDebugResources/merged.dir/values-v28/values-v28.xml",
+            "outputFile": "com.android.assignment6.app-mergeDummyDebugResources-50:/values-v28/values-v28.xml",
             "map": [
                 {
-                    "source": "/Users/ibrahemsalah/.gradle/caches/transforms-3/427427a06e6234ba44c7edaf9dcc85cf/transformed/material-1.5.0/res/values-v28/values-v28.xml",
+                    "source": "C:\\Users\\taha\\.gradle\\caches\\transforms-3\\e4a2437807f39d8937c22c2ea41ad9bb\\transformed\\material-1.5.0\\res\\values-v28\\values-v28.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/ibrahemsalah/.gradle/caches/transforms-3/adbdeb593a63045aa0472a030b450c18/transformed/appcompat-1.4.1/res/values-v28/values-v28.xml",
+                    "source": "C:\\Users\\taha\\.gradle\\caches\\transforms-3\\a44caabfcaeb2cbbd6b639b0c4db88bc\\transformed\\appcompat-1.4.1\\res\\values-v28\\values-v28.xml",
                     "from": {
                         "startLines": "2,3,4,8",
                         "startColumns": "4,4,4,4",
@@ -26,10 +26,10 @@
                     "to": {
                         "startLines": "14,15,16,20",
                         "startColumns": "4,4,4,4",
-                        "startOffsets": "1141,1216,1303,1533",
+                        "startOffsets": "1141,1216,1303,1483",
                         "endLines": "14,15,19,23",
                         "endColumns": "74,86,12,12",
-                        "endOffsets": "1211,1298,1528,1770"
+                        "endOffsets": "1211,1298,1478,1670"
                     }
                 }
             ]

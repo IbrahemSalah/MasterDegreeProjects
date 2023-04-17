@@ -1,20 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/build/intermediates/incremental/mergeDummyDebugResources/merged.dir/values-v24/values-v24.xml",
+            "outputFile": "com.android.assignment6.app-mergeDummyDebugResources-50:/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "/Users/ibrahemsalah/.gradle/caches/transforms-3/adbdeb593a63045aa0472a030b450c18/transformed/appcompat-1.4.1/res/values-v24/values-v24.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,212",
-                        "endColumns": "156,134",
-                        "endOffsets": "207,342"
-                    }
-                },
-                {
-                    "source": "/Users/ibrahemsalah/.gradle/caches/transforms-3/427427a06e6234ba44c7edaf9dcc85cf/transformed/material-1.5.0/res/values-v24/values-v24.xml",
+                    "source": "C:\\Users\\taha\\.gradle\\caches\\transforms-3\\e4a2437807f39d8937c22c2ea41ad9bb\\transformed\\material-1.5.0\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,9,12,15",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -33,7 +23,17 @@
                     }
                 },
                 {
-                    "source": "/Users/ibrahemsalah/.gradle/caches/transforms-3/630a9c4890136720a4d8c3321269c34e/transformed/media-1.0.0/res/values-v24/values-v24.xml",
+                    "source": "C:\\Users\\taha\\.gradle\\caches\\transforms-3\\a44caabfcaeb2cbbd6b639b0c4db88bc\\transformed\\appcompat-1.4.1\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,212",
+                        "endColumns": "156,134",
+                        "endOffsets": "207,342"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\taha\\.gradle\\caches\\transforms-3\\9aaa0106585832da7b46ec8bd86f67f0\\transformed\\media-1.0.0\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

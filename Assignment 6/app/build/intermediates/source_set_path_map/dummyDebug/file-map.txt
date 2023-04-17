@@ -1,0 +1,58 @@
+com.android.assignment6.app-jetified-play-services-basement-18.0.0-0 C:\Users\taha\.gradle\caches\transforms-3\0124cde023a7c1ef68b13df7bfdaddd4\transformed\jetified-play-services-basement-18.0.0\res
+com.android.assignment6.app-navigation-ui-2.4.1-1 C:\Users\taha\.gradle\caches\transforms-3\0ba0b30a2bb42c22ab3f76927caebdc9\transformed\navigation-ui-2.4.1\res
+com.android.assignment6.app-navigation-common-2.4.1-2 C:\Users\taha\.gradle\caches\transforms-3\0f9772fa47bac404b869eeeb23f9ad78\transformed\navigation-common-2.4.1\res
+com.android.assignment6.app-jetified-core-ktx-1.7.0-3 C:\Users\taha\.gradle\caches\transforms-3\11526135d9fab6bd5fe34cc090774ed0\transformed\jetified-core-ktx-1.7.0\res
+com.android.assignment6.app-jetified-emoji2-views-helper-1.0.0-4 C:\Users\taha\.gradle\caches\transforms-3\153fc9737cdfa1433543e143acdfef45\transformed\jetified-emoji2-views-helper-1.0.0\res
+com.android.assignment6.app-slidingpanelayout-1.2.0-5 C:\Users\taha\.gradle\caches\transforms-3\16da76c11343843a21b40adbd4119121\transformed\slidingpanelayout-1.2.0\res
+com.android.assignment6.app-jetified-annotation-experimental-1.1.0-6 C:\Users\taha\.gradle\caches\transforms-3\27993930fb38c657b8215c59b884cda9\transformed\jetified-annotation-experimental-1.1.0\res
+com.android.assignment6.app-jetified-fragment-ktx-1.4.1-7 C:\Users\taha\.gradle\caches\transforms-3\2dd8a47dedca03781de529bbac612e1c\transformed\jetified-fragment-ktx-1.4.1\res
+com.android.assignment6.app-jetified-glide-4.11.0-8 C:\Users\taha\.gradle\caches\transforms-3\32f2493963bbdfcea66f1fcdcf394421\transformed\jetified-glide-4.11.0\res
+com.android.assignment6.app-navigation-runtime-ktx-2.4.1-9 C:\Users\taha\.gradle\caches\transforms-3\3688d8db8f2f3689de54a9e1bc4e7693\transformed\navigation-runtime-ktx-2.4.1\res
+com.android.assignment6.app-jetified-startup-runtime-1.0.0-10 C:\Users\taha\.gradle\caches\transforms-3\3847969815cd0aedf037474d54b40dab\transformed\jetified-startup-runtime-1.0.0\res
+com.android.assignment6.app-jetified-navigation-dynamic-features-runtime-2.4.1-11 C:\Users\taha\.gradle\caches\transforms-3\384b495fbd5c5020951de885a0474804\transformed\jetified-navigation-dynamic-features-runtime-2.4.1\res
+com.android.assignment6.app-browser-1.4.0-12 C:\Users\taha\.gradle\caches\transforms-3\45ff4bb07fc46cee59f4acb947db3098\transformed\browser-1.4.0\res
+com.android.assignment6.app-jetified-emoji2-1.0.0-13 C:\Users\taha\.gradle\caches\transforms-3\468778c9888139eb15e8c5b9214329d0\transformed\jetified-emoji2-1.0.0\res
+com.android.assignment6.app-navigation-fragment-2.4.1-14 C:\Users\taha\.gradle\caches\transforms-3\47a231101cf4758f92259de72492d70b\transformed\navigation-fragment-2.4.1\res
+com.android.assignment6.app-navigation-runtime-2.4.1-15 C:\Users\taha\.gradle\caches\transforms-3\671f13999941375c266874c9e7b1d3a3\transformed\navigation-runtime-2.4.1\res
+com.android.assignment6.app-jetified-library-1.6.1-16 C:\Users\taha\.gradle\caches\transforms-3\6ca333d7b91dcda01e4a7e790fac374f\transformed\jetified-library-1.6.1\res
+com.android.assignment6.app-core-1.7.0-17 C:\Users\taha\.gradle\caches\transforms-3\709c3a4da0a9e2d783a4f41556d41e29\transformed\core-1.7.0\res
+com.android.assignment6.app-jetified-lifecycle-process-2.4.0-18 C:\Users\taha\.gradle\caches\transforms-3\754c238b0e72e174d0d464bc181f15cb\transformed\jetified-lifecycle-process-2.4.0\res
+com.android.assignment6.app-constraintlayout-2.0.4-19 C:\Users\taha\.gradle\caches\transforms-3\76e32204be65c9ba9a07799ad2b07e35\transformed\constraintlayout-2.0.4\res
+com.android.assignment6.app-recyclerview-1.2.1-20 C:\Users\taha\.gradle\caches\transforms-3\7729871fb4eee135567baf679a2e3962\transformed\recyclerview-1.2.1\res
+com.android.assignment6.app-jetified-navigation-dynamic-features-fragment-2.4.1-21 C:\Users\taha\.gradle\caches\transforms-3\805f2e33662d659c522a6d2ab75ba1a5\transformed\jetified-navigation-dynamic-features-fragment-2.4.1\res
+com.android.assignment6.app-jetified-window-1.0.0-22 C:\Users\taha\.gradle\caches\transforms-3\8573e024d19e12e17ac52607f0467276\transformed\jetified-window-1.0.0\res
+com.android.assignment6.app-fragment-1.4.1-23 C:\Users\taha\.gradle\caches\transforms-3\89b54accfbc507ebf2186e2bb3535150\transformed\fragment-1.4.1\res
+com.android.assignment6.app-navigation-ui-ktx-2.4.1-24 C:\Users\taha\.gradle\caches\transforms-3\93a922b0b82927cffdb7c277918af6b8\transformed\navigation-ui-ktx-2.4.1\res
+com.android.assignment6.app-coordinatorlayout-1.1.0-25 C:\Users\taha\.gradle\caches\transforms-3\9583707b6a294ad9f383a798f63f7b99\transformed\coordinatorlayout-1.1.0\res
+com.android.assignment6.app-media-1.0.0-26 C:\Users\taha\.gradle\caches\transforms-3\9aaa0106585832da7b46ec8bd86f67f0\transformed\media-1.0.0\res
+com.android.assignment6.app-jetified-savedstate-1.1.0-27 C:\Users\taha\.gradle\caches\transforms-3\9b89c651586a4ef88ec37b9006f40532\transformed\jetified-savedstate-1.1.0\res
+com.android.assignment6.app-jetified-appcompat-resources-1.4.1-28 C:\Users\taha\.gradle\caches\transforms-3\9c70dd286b018dfbf6bec3ffa9f4a70f\transformed\jetified-appcompat-resources-1.4.1\res
+com.android.assignment6.app-sqlite-2.3.1-29 C:\Users\taha\.gradle\caches\transforms-3\9d6c95bb0de6f52ca3c3332cabecf61b\transformed\sqlite-2.3.1\res
+com.android.assignment6.app-cardview-1.0.0-30 C:\Users\taha\.gradle\caches\transforms-3\a2511ab247adf75bd6bf45f2c4df347a\transformed\cardview-1.0.0\res
+com.android.assignment6.app-appcompat-1.4.1-31 C:\Users\taha\.gradle\caches\transforms-3\a44caabfcaeb2cbbd6b639b0c4db88bc\transformed\appcompat-1.4.1\res
+com.android.assignment6.app-lifecycle-viewmodel-2.3.1-32 C:\Users\taha\.gradle\caches\transforms-3\af62124bb3c6fdd325741695ca8964fd\transformed\lifecycle-viewmodel-2.3.1\res
+com.android.assignment6.app-lifecycle-runtime-2.4.0-33 C:\Users\taha\.gradle\caches\transforms-3\b791bc3b6248f73ea9c60d0e4731654c\transformed\lifecycle-runtime-2.4.0\res
+com.android.assignment6.app-sqlite-framework-2.3.1-34 C:\Users\taha\.gradle\caches\transforms-3\c57f38ce4044bb6c004cd345ba7f135b\transformed\sqlite-framework-2.3.1\res
+com.android.assignment6.app-transition-1.4.1-35 C:\Users\taha\.gradle\caches\transforms-3\c71fe8c2fcb10a63a7553b698fb98262\transformed\transition-1.4.1\res
+com.android.assignment6.app-jetified-security-crypto-ktx-1.1.0-alpha03-36 C:\Users\taha\.gradle\caches\transforms-3\d71002547041b6e5ad0114bec5d1ec64\transformed\jetified-security-crypto-ktx-1.1.0-alpha03\res
+com.android.assignment6.app-drawerlayout-1.1.1-37 C:\Users\taha\.gradle\caches\transforms-3\d9119479bf859e80dcc60f6d1442ac48\transformed\drawerlayout-1.1.1\res
+com.android.assignment6.app-room-runtime-2.5.1-38 C:\Users\taha\.gradle\caches\transforms-3\dee8e0b9df80b969042de89c14d0313a\transformed\room-runtime-2.5.1\res
+com.android.assignment6.app-material-1.5.0-39 C:\Users\taha\.gradle\caches\transforms-3\e4a2437807f39d8937c22c2ea41ad9bb\transformed\material-1.5.0\res
+com.android.assignment6.app-jetified-core-1.10.2-40 C:\Users\taha\.gradle\caches\transforms-3\e6a8eb1bf2e25a20e9530f4fd241dc06\transformed\jetified-core-1.10.2\res
+com.android.assignment6.app-jetified-play-services-auth-19.0.0-41 C:\Users\taha\.gradle\caches\transforms-3\e6c0bbda86f215b38fd1de40f626259f\transformed\jetified-play-services-auth-19.0.0\res
+com.android.assignment6.app-navigation-common-ktx-2.4.1-42 C:\Users\taha\.gradle\caches\transforms-3\e7a6661ed12754c3ed29ac4491c08295\transformed\navigation-common-ktx-2.4.1\res
+com.android.assignment6.app-jetified-viewpager2-1.0.0-43 C:\Users\taha\.gradle\caches\transforms-3\f5a2b1420a209572a5fad9908e030b8d\transformed\jetified-viewpager2-1.0.0\res
+com.android.assignment6.app-jetified-firebase-ui-auth-7.2.0-44 C:\Users\taha\.gradle\caches\transforms-3\fb03eac678b3c1f64c23d2ffaefc9556\transformed\jetified-firebase-ui-auth-7.2.0\res
+com.android.assignment6.app-jetified-play-services-base-17.5.0-45 C:\Users\taha\.gradle\caches\transforms-3\fb2066ad15d07db254f623765d8b0d40\transformed\jetified-play-services-base-17.5.0\res
+com.android.assignment6.app-navigation-fragment-ktx-2.4.1-46 C:\Users\taha\.gradle\caches\transforms-3\fd5677c787b49e762ac7f5f9682e5709\transformed\navigation-fragment-ktx-2.4.1\res
+com.android.assignment6.app-dummy-47 C:\tfs\MasterDegreeProjects\Assignment 6\app\build\generated\res\pngs\dummy\debug
+com.android.assignment6.app-dummy-48 C:\tfs\MasterDegreeProjects\Assignment 6\app\build\generated\res\resValues\dummy\debug
+com.android.assignment6.app-dummy-49 C:\tfs\MasterDegreeProjects\Assignment 6\app\build\generated\res\rs\dummy\debug
+com.android.assignment6.app-mergeDummyDebugResources-50 C:\tfs\MasterDegreeProjects\Assignment 6\app\build\intermediates\incremental\dummyDebug\mergeDummyDebugResources\merged.dir
+com.android.assignment6.app-mergeDummyDebugResources-51 C:\tfs\MasterDegreeProjects\Assignment 6\app\build\intermediates\incremental\dummyDebug\mergeDummyDebugResources\stripped.dir
+com.android.assignment6.app-merged_res-52 C:\tfs\MasterDegreeProjects\Assignment 6\app\build\intermediates\merged_res\dummyDebug
+com.android.assignment6.app-debug-53 C:\tfs\MasterDegreeProjects\Assignment 6\app\src\debug\res
+com.android.assignment6.app-dummy-54 C:\tfs\MasterDegreeProjects\Assignment 6\app\src\dummy\res
+com.android.assignment6.app-dummyDebug-55 C:\tfs\MasterDegreeProjects\Assignment 6\app\src\dummyDebug\res
+com.android.assignment6.app-main-56 C:\tfs\MasterDegreeProjects\Assignment 6\app\src\main\res
+com.android.assignment6.app-packaged_res-57 C:\tfs\MasterDegreeProjects\Assignment 6\localization\build\intermediates\packaged_res\debug

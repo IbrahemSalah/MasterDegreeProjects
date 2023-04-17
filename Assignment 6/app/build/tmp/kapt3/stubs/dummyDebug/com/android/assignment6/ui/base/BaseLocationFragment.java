@@ -12,11 +12,11 @@ public abstract class BaseLocationFragment extends androidx.fragment.app.Fragmen
     private com.google.android.gms.location.LocationSettingsRequest mLocationSettingsRequest;
     private com.google.android.gms.location.LocationCallback mLocationCallback;
     private boolean mRequestingLocationUpdates = false;
-    @org.jetbrains.annotations.Nullable()
+    @org.jetbrains.annotations.Nullable
     private android.location.Location mCurrentLocation;
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public static final com.android.assignment6.ui.base.BaseLocationFragment.Companion Companion = null;
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public static final java.lang.String TAG = "BaseLocationFragment";
     public static final long FASTEST_UPDATE_INTERVAL_IN_MILLISECONDS = 50000L;
     public static final long UPDATE_INTERVAL_IN_MILLISECONDS = 50000L;
@@ -26,31 +26,31 @@ public abstract class BaseLocationFragment extends androidx.fragment.app.Fragmen
         super();
     }
     
-    @org.jetbrains.annotations.Nullable()
+    @org.jetbrains.annotations.Nullable
     public final android.location.Location getMCurrentLocation() {
         return null;
     }
     
-    public final void setMCurrentLocation(@org.jetbrains.annotations.Nullable()
+    public final void setMCurrentLocation(@org.jetbrains.annotations.Nullable
     android.location.Location p0) {
     }
     
-    @java.lang.Override()
-    public void onAttach(@org.jetbrains.annotations.NotNull()
+    @java.lang.Override
+    public void onAttach(@org.jetbrains.annotations.NotNull
     android.content.Context context) {
     }
     
-    @java.lang.Override()
-    public void onViewCreated(@org.jetbrains.annotations.NotNull()
-    android.view.View view, @org.jetbrains.annotations.Nullable()
+    @java.lang.Override
+    public void onViewCreated(@org.jetbrains.annotations.NotNull
+    android.view.View view, @org.jetbrains.annotations.Nullable
     android.os.Bundle savedInstanceState) {
     }
     
-    @java.lang.Override()
+    @java.lang.Override
     public void onResume() {
     }
     
-    @java.lang.Override()
+    @java.lang.Override
     public void onPause() {
     }
     
@@ -75,7 +75,7 @@ public abstract class BaseLocationFragment extends androidx.fragment.app.Fragmen
     public void stopLocationUpdates() {
     }
     
-    public final void preCheck(@org.jetbrains.annotations.NotNull()
+    public final void preCheck(@org.jetbrains.annotations.NotNull
     kotlin.jvm.functions.Function0<kotlin.Unit> action) {
     }
     

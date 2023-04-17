@@ -11,6 +11,7 @@ import androidx.annotation.Nullable;
 import androidx.cardview.widget.CardView;
 import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.viewbinding.ViewBinding;
+import androidx.viewbinding.ViewBindings;
 import com.android.assignment6.R;
 import java.lang.NullPointerException;
 import java.lang.Override;
@@ -76,25 +77,25 @@ public final class ProgressDialogViewBinding implements ViewBinding {
       ConstraintLayout cpBgView = (ConstraintLayout) rootView;
 
       id = R.id.cp_cardview;
-      CardView cpCardview = rootView.findViewById(id);
+      CardView cpCardview = ViewBindings.findChildViewById(rootView, id);
       if (cpCardview == null) {
         break missingId;
       }
 
       id = R.id.cp_pbar;
-      ProgressBar cpPbar = rootView.findViewById(id);
+      ProgressBar cpPbar = ViewBindings.findChildViewById(rootView, id);
       if (cpPbar == null) {
         break missingId;
       }
 
       id = R.id.cp_title;
-      TextView cpTitle = rootView.findViewById(id);
+      TextView cpTitle = ViewBindings.findChildViewById(rootView, id);
       if (cpTitle == null) {
         break missingId;
       }
 
       id = R.id.cp_view;
-      ConstraintLayout cpView = rootView.findViewById(id);
+      ConstraintLayout cpView = ViewBindings.findChildViewById(rootView, id);
       if (cpView == null) {
         break missingId;
       }

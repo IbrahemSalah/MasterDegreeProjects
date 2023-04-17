@@ -20,7 +20,7 @@ buildscript {
             'koin_version'     : '2.2.2',
             'room_version'     : '2.5.1',
             'kotlin_version'   : '1.4.32',
-            'nav_version'      : '2.4.0',
+            'nav_version'      : '2.4.1',
             'lifecycle_version': '2.3.1'
 
 
@@ -100,8 +100,8 @@ buildscript {
     dependencies {
         // NOTE: Do not place your application dependencies here; they belong
         // in the individual module build.gradle files
-        classpath 'com.android.tools.build:gradle:4.0.2'
-        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:1.6.10"
+        classpath 'com.android.tools.build:gradle:7.4.2'
+        classpath 'org.jetbrains.kotlin:kotlin-gradle-plugin:1.6.21'
         classpath "io.insert-koin:koin-gradle-plugin:${versions.koin_version}"
         classpath "androidx.navigation:navigation-safe-args-gradle-plugin:${versions.nav_version}"
         classpath "org.jetbrains.dokka:dokka-android-gradle-plugin:0.9.17"

@@ -7,15 +7,15 @@ public final class RawDataSourceImp implements com.android.assignment6.data.raw.
     private final android.content.Context application = null;
     private final com.google.gson.Gson gson = null;
     
-    public RawDataSourceImp(@org.jetbrains.annotations.NotNull()
-    android.content.Context application, @org.jetbrains.annotations.NotNull()
+    public RawDataSourceImp(@org.jetbrains.annotations.NotNull
+    android.content.Context application, @org.jetbrains.annotations.NotNull
     com.google.gson.Gson gson) {
         super();
     }
     
-    @org.jetbrains.annotations.Nullable()
-    @java.lang.Override()
-    public java.lang.Object getLocalBaseAppResponse(@org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.Nullable
+    @java.lang.Override
+    public java.lang.Object getLocalBaseAppResponse(@org.jetbrains.annotations.NotNull
     kotlin.coroutines.Continuation<? super java.util.ArrayList<java.lang.String>> continuation) {
         return null;
     }

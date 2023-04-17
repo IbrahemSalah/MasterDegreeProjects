@@ -11,25 +11,25 @@ public class App extends android.app.Application {
         super();
     }
     
-    @java.lang.Override()
+    @java.lang.Override
     public void onCreate() {
     }
     
     private final void initKoin() {
     }
     
-    @java.lang.Override()
-    protected void attachBaseContext(@org.jetbrains.annotations.NotNull()
+    @java.lang.Override
+    protected void attachBaseContext(@org.jetbrains.annotations.NotNull
     android.content.Context base) {
     }
     
-    @java.lang.Override()
-    public void onConfigurationChanged(@org.jetbrains.annotations.NotNull()
+    @java.lang.Override
+    public void onConfigurationChanged(@org.jetbrains.annotations.NotNull
     android.content.res.Configuration newConfig) {
     }
     
-    @org.jetbrains.annotations.NotNull()
-    @java.lang.Override()
+    @org.jetbrains.annotations.NotNull
+    @java.lang.Override
     public android.content.Context getApplicationContext() {
         return null;
     }

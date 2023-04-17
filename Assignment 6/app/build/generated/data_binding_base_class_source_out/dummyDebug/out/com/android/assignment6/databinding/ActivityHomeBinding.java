@@ -9,6 +9,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.FragmentContainerView;
 import androidx.viewbinding.ViewBinding;
+import androidx.viewbinding.ViewBindings;
 import com.android.assignment6.R;
 import java.lang.NullPointerException;
 import java.lang.Override;
@@ -55,7 +56,7 @@ public final class ActivityHomeBinding implements ViewBinding {
     int id;
     missingId: {
       id = R.id.fcv_home_graph_container;
-      FragmentContainerView fcvHomeGraphContainer = rootView.findViewById(id);
+      FragmentContainerView fcvHomeGraphContainer = ViewBindings.findChildViewById(rootView, id);
       if (fcvHomeGraphContainer == null) {
         break missingId;
       }

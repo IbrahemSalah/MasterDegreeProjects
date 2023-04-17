@@ -11,65 +11,65 @@ public final class RepositoryImp implements com.android.assignment6.data.reposit
     private final com.android.assignment6.data.raw.RawDataSource rawDataSource = null;
     private final kotlinx.coroutines.CoroutineDispatcher dispatcher = null;
     
-    public RepositoryImp(@org.jetbrains.annotations.NotNull()
-    com.android.assignment6.data.remote.RemoteDataSource remoteDataSource, @org.jetbrains.annotations.NotNull()
-    com.android.assignment6.data.sharedpref.PrefDataSource prefDataSource, @org.jetbrains.annotations.NotNull()
-    com.android.assignment6.data.offline.Offline offline, @org.jetbrains.annotations.NotNull()
-    com.android.assignment6.data.database.DbDataSource dbDataSource, @org.jetbrains.annotations.NotNull()
-    com.android.assignment6.data.raw.RawDataSource rawDataSource, @org.jetbrains.annotations.NotNull()
+    public RepositoryImp(@org.jetbrains.annotations.NotNull
+    com.android.assignment6.data.remote.RemoteDataSource remoteDataSource, @org.jetbrains.annotations.NotNull
+    com.android.assignment6.data.sharedpref.PrefDataSource prefDataSource, @org.jetbrains.annotations.NotNull
+    com.android.assignment6.data.offline.Offline offline, @org.jetbrains.annotations.NotNull
+    com.android.assignment6.data.database.DbDataSource dbDataSource, @org.jetbrains.annotations.NotNull
+    com.android.assignment6.data.raw.RawDataSource rawDataSource, @org.jetbrains.annotations.NotNull
     kotlinx.coroutines.CoroutineDispatcher dispatcher) {
         super();
     }
     
-    @org.jetbrains.annotations.NotNull()
-    @java.lang.Override()
+    @org.jetbrains.annotations.NotNull
+    @java.lang.Override
     public java.lang.String getToken() {
         return null;
     }
     
-    @java.lang.Override()
-    public void setToken(@org.jetbrains.annotations.NotNull()
+    @java.lang.Override
+    public void setToken(@org.jetbrains.annotations.NotNull
     java.lang.String token) {
     }
     
-    @org.jetbrains.annotations.Nullable()
-    @java.lang.Override()
+    @org.jetbrains.annotations.Nullable
+    @java.lang.Override
     public com.android.assignment6.data.model.BaseAppResponse getSharedPrefBaseAppResponse() {
         return null;
     }
     
-    @java.lang.Override()
-    public void setSharedPrefBaseAppResponse(@org.jetbrains.annotations.NotNull()
+    @java.lang.Override
+    public void setSharedPrefBaseAppResponse(@org.jetbrains.annotations.NotNull
     com.android.assignment6.data.model.BaseAppResponse baseAppResponse) {
     }
     
-    @java.lang.Override()
+    @java.lang.Override
     public void logOut() {
     }
     
-    @org.jetbrains.annotations.Nullable()
-    @java.lang.Override()
-    public java.lang.Object getLocalBaseAppResponse(@org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.Nullable
+    @java.lang.Override
+    public java.lang.Object getLocalBaseAppResponse(@org.jetbrains.annotations.NotNull
     kotlin.coroutines.Continuation<? super java.util.ArrayList<java.lang.String>> continuation) {
         return null;
     }
     
-    @org.jetbrains.annotations.Nullable()
-    @java.lang.Override()
-    public java.lang.Object getBaseAppResponse(@org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.Nullable
+    @java.lang.Override
+    public java.lang.Object getBaseAppResponse(@org.jetbrains.annotations.NotNull
     kotlin.coroutines.Continuation<? super com.android.assignment6.data.model.APIResult<com.android.assignment6.data.model.BaseAppResponse>> continuation) {
         return null;
     }
     
-    @org.jetbrains.annotations.NotNull()
-    @java.lang.Override()
+    @org.jetbrains.annotations.NotNull
+    @java.lang.Override
     public com.android.assignment6.data.model.APIResult<java.lang.String> dummyOffline() {
         return null;
     }
     
-    @org.jetbrains.annotations.Nullable()
-    @java.lang.Override()
-    public java.lang.Object getAllDataInTable(@org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.Nullable
+    @java.lang.Override
+    public java.lang.Object getAllDataInTable(@org.jetbrains.annotations.NotNull
     kotlin.coroutines.Continuation<? super com.android.assignment6.data.model.BaseAppResponse> continuation) {
         return null;
     }

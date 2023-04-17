@@ -9,33 +9,33 @@ public final class URIPathHelper {
         super();
     }
     
-    @org.jetbrains.annotations.Nullable()
-    public final java.lang.String getPath(@org.jetbrains.annotations.NotNull()
-    android.content.Context context, @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.Nullable
+    public final java.lang.String getPath(@org.jetbrains.annotations.NotNull
+    android.content.Context context, @org.jetbrains.annotations.NotNull
     android.net.Uri uri) {
         return null;
     }
     
-    @org.jetbrains.annotations.Nullable()
-    public final java.lang.String getDataColumn(@org.jetbrains.annotations.NotNull()
-    android.content.Context context, @org.jetbrains.annotations.Nullable()
-    android.net.Uri uri, @org.jetbrains.annotations.Nullable()
-    java.lang.String selection, @org.jetbrains.annotations.Nullable()
+    @org.jetbrains.annotations.Nullable
+    public final java.lang.String getDataColumn(@org.jetbrains.annotations.NotNull
+    android.content.Context context, @org.jetbrains.annotations.Nullable
+    android.net.Uri uri, @org.jetbrains.annotations.Nullable
+    java.lang.String selection, @org.jetbrains.annotations.Nullable
     java.lang.String[] selectionArgs) {
         return null;
     }
     
-    public final boolean isExternalStorageDocument(@org.jetbrains.annotations.NotNull()
+    public final boolean isExternalStorageDocument(@org.jetbrains.annotations.NotNull
     android.net.Uri uri) {
         return false;
     }
     
-    public final boolean isDownloadsDocument(@org.jetbrains.annotations.NotNull()
+    public final boolean isDownloadsDocument(@org.jetbrains.annotations.NotNull
     android.net.Uri uri) {
         return false;
     }
     
-    public final boolean isMediaDocument(@org.jetbrains.annotations.NotNull()
+    public final boolean isMediaDocument(@org.jetbrains.annotations.NotNull
     android.net.Uri uri) {
         return false;
     }

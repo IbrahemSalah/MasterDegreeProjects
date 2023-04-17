@@ -9,16 +9,16 @@ public final class DateTypeConverter {
         super();
     }
     
-    @org.jetbrains.annotations.Nullable()
-    @androidx.room.TypeConverter()
-    public final java.util.Date fromTimestamp(@org.jetbrains.annotations.Nullable()
+    @org.jetbrains.annotations.Nullable
+    @androidx.room.TypeConverter
+    public final java.util.Date fromTimestamp(@org.jetbrains.annotations.Nullable
     java.lang.Long value) {
         return null;
     }
     
-    @org.jetbrains.annotations.Nullable()
-    @androidx.room.TypeConverter()
-    public final java.lang.Long dateToTimestamp(@org.jetbrains.annotations.Nullable()
+    @org.jetbrains.annotations.Nullable
+    @androidx.room.TypeConverter
+    public final java.lang.Long dateToTimestamp(@org.jetbrains.annotations.Nullable
     java.util.Date date) {
         return null;
     }

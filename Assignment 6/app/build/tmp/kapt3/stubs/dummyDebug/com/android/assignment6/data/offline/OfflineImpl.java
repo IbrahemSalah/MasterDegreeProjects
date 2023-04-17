@@ -6,13 +6,13 @@ import java.lang.System;
 public final class OfflineImpl implements com.android.assignment6.data.offline.Offline {
     private final android.content.Context context = null;
     
-    public OfflineImpl(@org.jetbrains.annotations.NotNull()
+    public OfflineImpl(@org.jetbrains.annotations.NotNull
     android.content.Context context) {
         super();
     }
     
-    @org.jetbrains.annotations.NotNull()
-    @java.lang.Override()
+    @org.jetbrains.annotations.NotNull
+    @java.lang.Override
     public com.android.assignment6.data.model.APIResult<java.lang.String> dummyOffline() {
         return null;
     }

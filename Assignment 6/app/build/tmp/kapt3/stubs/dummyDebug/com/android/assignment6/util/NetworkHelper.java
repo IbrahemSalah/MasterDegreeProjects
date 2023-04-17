@@ -6,7 +6,7 @@ import java.lang.System;
 public final class NetworkHelper {
     private final android.content.Context context = null;
     
-    public NetworkHelper(@org.jetbrains.annotations.NotNull()
+    public NetworkHelper(@org.jetbrains.annotations.NotNull
     android.content.Context context) {
         super();
     }

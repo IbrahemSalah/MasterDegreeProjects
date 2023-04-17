@@ -6,14 +6,14 @@ import java.lang.System;
 public final class DbDataSourceImpl implements com.android.assignment6.data.database.DbDataSource {
     private final com.android.assignment6.data.database.AppDatabase appDatabase = null;
     
-    public DbDataSourceImpl(@org.jetbrains.annotations.NotNull()
+    public DbDataSourceImpl(@org.jetbrains.annotations.NotNull
     com.android.assignment6.data.database.AppDatabase appDatabase) {
         super();
     }
     
-    @org.jetbrains.annotations.Nullable()
-    @java.lang.Override()
-    public java.lang.Object getAllDataInTable(@org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.Nullable
+    @java.lang.Override
+    public java.lang.Object getAllDataInTable(@org.jetbrains.annotations.NotNull
     kotlin.coroutines.Continuation<? super com.android.assignment6.data.model.BaseAppResponse> continuation) {
         return null;
     }
