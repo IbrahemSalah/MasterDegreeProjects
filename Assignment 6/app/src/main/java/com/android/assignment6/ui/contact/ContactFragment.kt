@@ -4,7 +4,7 @@ import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import androidx.recyclerview.widget.GridLayoutManager
+import androidx.recyclerview.widget.LinearLayoutManager
 import com.android.assignment6.R
 import com.android.assignment6.databinding.FragmentContactBinding
 import com.android.assignment6.ui.base.BaseViewModelFragment
@@ -35,8 +35,8 @@ class ContactFragment : BaseViewModelFragment<HomeViewModel, FragmentContactBind
         contacts.add(Contact("PDF", "Resume PDF", R.drawable.pdf))
 
         var ad_ob = ContactAdapter(contacts)
-        binding.rcv.layoutManager = GridLayoutManager(getActivity(),2)
-        // binding.rcv.layoutManager = LinearLayoutManager(this)
+        // binding.rcv.layoutManager = GridLayoutManager(getActivity(),2)
+        binding.rcv.layoutManager = LinearLayoutManager(getActivity())
         binding.rcv.adapter = ad_ob
         return binding.root
     }
