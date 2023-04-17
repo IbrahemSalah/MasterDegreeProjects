@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/build/intermediates/res/merged/dummy/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/build/intermediates/res/merged/dummy/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/build/intermediates/res/merged/dummy/debug/navigation_home_navigation.xml.flat",
+        "source": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/src/main/res/navigation/home_navigation.xml"
+    },
+    {
+        "merged": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/build/intermediates/res/merged/dummy/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/build/intermediates/res/merged/dummy/debug/layout_progress_dialog_view.xml.flat",
+        "source": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/src/main/res/layout/progress_dialog_view.xml"
+    },
+    {
+        "merged": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/build/intermediates/res/merged/dummy/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/build/intermediates/res/merged/dummy/debug/layout_fragment_contact.xml.flat",
+        "source": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/src/main/res/layout/fragment_contact.xml"
+    },
+    {
+        "merged": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/build/intermediates/res/merged/dummy/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/build/intermediates/res/merged/dummy/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/build/intermediates/res/merged/dummy/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/build/intermediates/res/merged/dummy/debug/drawable_ic_baseline_remove_24.xml.flat",
+        "source": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/src/main/res/drawable/ic_baseline_remove_24.xml"
+    },
+    {
+        "merged": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/build/intermediates/res/merged/dummy/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/build/intermediates/res/merged/dummy/debug/layout_fragment_home.xml.flat",
+        "source": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/build/intermediates/res/merged/dummy/debug/layout_fragment_work.xml.flat",
+        "source": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/src/main/res/layout/fragment_work.xml"
+    },
+    {
+        "merged": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/build/intermediates/res/merged/dummy/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/build/intermediates/res/merged/dummy/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/build/intermediates/res/merged/dummy/debug/layout_fragment_about_me.xml.flat",
+        "source": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/src/main/res/layout/fragment_about_me.xml"
+    },
+    {
+        "merged": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/build/intermediates/res/merged/dummy/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/build/intermediates/res/merged/dummy/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/build/intermediates/res/merged/dummy/debug/layout_activity_home.xml.flat",
+        "source": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/build/intermediates/res/merged/dummy/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/build/intermediates/res/merged/dummy/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/ibrahemsalah/Desktop/Android/Assignment 6 And 7 /app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    }
+]

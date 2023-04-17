@@ -2,6 +2,7 @@ package com.example.ibrahemsalah615885assignment3
 
 import android.content.Intent
 import android.os.Bundle
+import android.view.Menu
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import com.example.ibrahemsalah615885assignment3.databinding.ActivityRegistrationBinding
@@ -17,6 +18,10 @@ class RegistrationActivity : AppCompatActivity() {
         initViews()
     }
 
+
+    override fun onCreateOptionsMenu(menu: Menu?): Boolean {
+        return super.onCreateOptionsMenu(menu)
+    }
     private fun initViews() {
         binding?.btnSignUp?.setOnClickListener {
             if (binding?.etFirstName?.text.toString().isEmpty() ||
