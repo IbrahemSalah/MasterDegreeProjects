@@ -11,6 +11,7 @@ import java.util.*
 import java.util.stream.Stream
 import kotlin.collections.ArrayList
 
+// name change commit
 class MainActivity : AppCompatActivity() {
     lateinit var binding : ActivityMainBinding;
     private var totalScore : Int = 0
@@ -19,7 +20,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
-        //asdadsasdasd
         submitButtonHandler()
         resetBtnHandler()
     }

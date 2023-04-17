@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6a312c66-d7cd-4dd6-b579-09328c2c9756" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Group Project Lab6 Problem 1/QuizApp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project Lab6 Problem 1/QuizApp/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project Lab6 Problem 1/QuizApp/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project Lab6 Problem 1/QuizApp/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project Lab6 Problem 1/QuizApp/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project Lab6 Problem 1/QuizApp/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project Lab6 Problem 1/QuizApp/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project Lab6 Problem 1/QuizApp/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project Lab6 Problem 1/QuizApp/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project Lab6 Problem 1/QuizApp/app/src/androidTest/java/com/example/quizapp/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project Lab6 Problem 1/QuizApp/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project Lab6 Problem 1/QuizApp/app/src/main/java/com/example/quizapp/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project Lab6 Problem 1/QuizApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project Lab6 Problem 1/QuizApp/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project Lab6 Problem 1/QuizApp/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project Lab6 Problem 1/QuizApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project Lab6 Problem 1/QuizApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project Lab6 Problem 1/QuizApp/app/src/main/res/mipmap-anydpi-v33/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project Lab6 Problem 1/QuizApp/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project Lab6 Problem 1/QuizApp/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project Lab6 Problem 1/QuizApp/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project Lab6 Problem 1/QuizApp/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project Lab6 Problem 1/QuizApp/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project Lab6 Problem 1/QuizApp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project Lab6 Problem 1/QuizApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project Lab6 Problem 1/QuizApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project Lab6 Problem 1/QuizApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project Lab6 Problem 1/QuizApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project Lab6 Problem 1/QuizApp/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project Lab6 Problem 1/QuizApp/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project Lab6 Problem 1/QuizApp/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project Lab6 Problem 1/QuizApp/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project Lab6 Problem 1/QuizApp/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project Lab6 Problem 1/QuizApp/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project Lab6 Problem 1/QuizApp/app/src/test/java/com/example/quizapp/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project Lab6 Problem 1/QuizApp/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project Lab6 Problem 1/QuizApp/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project Lab6 Problem 1/QuizApp/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project Lab6 Problem 1/QuizApp/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project Lab6 Problem 1/QuizApp/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project Lab6 Problem 1/QuizApp/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project Lab6 Problem 1/QuizApp/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project Lab6 Problem 1/read me.rtf" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2OGkN7e7AO3nzDp4UBzbRKRsZrz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cidr.known.project.marker": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a312c66-d7cd-4dd6-b579-09328c2c9756" name="Changes" comment="" />
+      <created>1681194262651</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681194262651</updated>
+    </task>
+    <servers />
+  </component>
+</project>
