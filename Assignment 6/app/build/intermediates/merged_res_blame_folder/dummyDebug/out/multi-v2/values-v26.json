@@ -4,7 +4,7 @@
             "outputFile": "com.android.assignment6.app-mergeDummyDebugResources-50:/values-v26/values-v26.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\taha\\.gradle\\caches\\transforms-3\\fb03eac678b3c1f64c23d2ffaefc9556\\transformed\\jetified-firebase-ui-auth-7.2.0\\res\\values-v26\\values-v26.xml",
+                    "source": "/Users/ahmedgendy/.gradle/caches/transforms-3/fb03eac678b3c1f64c23d2ffaefc9556/transformed/jetified-firebase-ui-auth-7.2.0/res/values-v26/values-v26.xml",
                     "from": {
                         "startLines": "2,6,10,14",
                         "startColumns": "4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\taha\\.gradle\\caches\\transforms-3\\a44caabfcaeb2cbbd6b639b0c4db88bc\\transformed\\appcompat-1.4.1\\res\\values-v26\\values-v26.xml",
+                    "source": "/Users/ahmedgendy/.gradle/caches/transforms-3/a44caabfcaeb2cbbd6b639b0c4db88bc/transformed/appcompat-1.4.1/res/values-v26/values-v26.xml",
                     "from": {
                         "startLines": "2,3,4,8,12,16",
                         "startColumns": "4,4,4,4,4,4",

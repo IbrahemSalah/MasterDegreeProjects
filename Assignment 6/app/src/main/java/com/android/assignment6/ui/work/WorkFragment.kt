@@ -19,5 +19,11 @@ class WorkFragment : BaseViewModelFragment<HomeViewModel, FragmentWorkBinding>(
     ): View {
         _binding = FragmentWorkBinding.inflate(layoutInflater)
         return binding.root
+
+    }
+
+    override fun initViews() {
+        val workAdapter = WorkAdapter(requireContext())
+
     }
 }

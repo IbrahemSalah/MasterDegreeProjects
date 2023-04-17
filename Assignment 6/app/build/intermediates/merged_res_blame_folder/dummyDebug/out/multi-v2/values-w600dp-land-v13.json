@@ -4,7 +4,7 @@
             "outputFile": "com.android.assignment6.app-mergeDummyDebugResources-50:/values-w600dp-land-v13/values-w600dp-land-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\taha\\.gradle\\caches\\transforms-3\\e4a2437807f39d8937c22c2ea41ad9bb\\transformed\\material-1.5.0\\res\\values-w600dp-land-v13\\values-w600dp-land-v13.xml",
+                    "source": "/Users/ahmedgendy/.gradle/caches/transforms-3/e4a2437807f39d8937c22c2ea41ad9bb/transformed/material-1.5.0/res/values-w600dp-land-v13/values-w600dp-land-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
