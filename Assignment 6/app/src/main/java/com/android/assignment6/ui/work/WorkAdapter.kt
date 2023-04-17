@@ -7,9 +7,10 @@ import androidx.recyclerview.widget.RecyclerView
 import com.android.assignment6.databinding.WorkFragmentItemBinding
 import com.bumptech.glide.Glide
 
-class WorkAdapter(private val context: Context) : RecyclerView.Adapter<WorkAdapter.ViewHolder>() {
-
-    val dataset = WorkDataSource.workList
+class WorkAdapter(
+    private val dataset: ArrayList<WorkDataClass>,
+    private val context: Context
+) : RecyclerView.Adapter<WorkAdapter.ViewHolder>() {
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
         val binding =
@@ -31,14 +32,12 @@ class WorkAdapter(private val context: Context) : RecyclerView.Adapter<WorkAdapt
 
         Glide.with(context)
             .load(workExperience.company?.companyIconUrl)
-            .centerCrop()
             .into(holder.binding.icon)
 
         holder.binding.description.text = workExperience.jobDescirption
 
     }
-     inner class ViewHolder(val binding: WorkFragmentItemBinding) :
-        RecyclerView.ViewHolder(binding.root) {
 
-    }
+    inner class ViewHolder(val binding: WorkFragmentItemBinding) :
+        RecyclerView.ViewHolder(binding.root)
 }

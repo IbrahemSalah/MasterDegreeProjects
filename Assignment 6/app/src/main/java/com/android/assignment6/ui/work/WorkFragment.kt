@@ -23,10 +23,12 @@ class WorkFragment : BaseViewModelFragment<HomeViewModel, FragmentWorkBinding>(
 
     }
 
-    override fun initViews( ) {
-        val workAdapter = WorkAdapter(requireContext())
-        binding.workRecyclerView.adapter = workAdapter
-        binding.workRecyclerView.layoutManager = LinearLayoutManager(activity)
+    override fun initViews() {
 
+        val workAdapter = WorkAdapter(
+            WorkDataSource.workList, requireContext()
+        )
+        binding.workRecyclerView.layoutManager = LinearLayoutManager(activity)
+        binding.workRecyclerView.adapter = workAdapter
     }
 }
