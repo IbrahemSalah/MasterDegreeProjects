@@ -2,7 +2,7 @@
 buildscript {
 
     ext {
-        kotlin_version = '1.4.31'
+        kotlin_version = '1.8.20'
     }
     ext.versions = [
             'minSdk'           : 25,
@@ -46,7 +46,7 @@ buildscript {
 
             ],
             support   : [
-                    'appCompat'       : 'androidx.appcompat:appcompat:1.2.0',
+                    'appCompat'       : 'androidx.appcompat:appcompat:1.6.1',
                     'constraintlayout': 'androidx.constraintlayout:constraintlayout:2.0.4',
                     'recyclerView'    : 'androidx.recyclerview:recyclerview:1.0.0',
                     'cardView'        : 'androidx.cardview:cardview:1.0.0',
@@ -101,7 +101,7 @@ buildscript {
         // NOTE: Do not place your application dependencies here; they belong
         // in the individual module build.gradle files
         classpath 'com.android.tools.build:gradle:7.4.2'
-        classpath 'org.jetbrains.kotlin:kotlin-gradle-plugin:1.6.21'
+        classpath 'org.jetbrains.kotlin:kotlin-gradle-plugin:1.8.20'
         classpath "io.insert-koin:koin-gradle-plugin:${versions.koin_version}"
         classpath "androidx.navigation:navigation-safe-args-gradle-plugin:${versions.nav_version}"
         classpath "org.jetbrains.dokka:dokka-android-gradle-plugin:0.9.17"
