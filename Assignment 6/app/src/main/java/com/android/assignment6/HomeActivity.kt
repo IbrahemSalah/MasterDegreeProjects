@@ -5,6 +5,7 @@ import androidx.navigation.fragment.NavHostFragment
 import androidx.navigation.ui.setupWithNavController
 import com.android.assignment6.databinding.ActivityHomeBinding
 import com.android.assignment6.ui.base.BaseActivity
+import com.android.assignment6.ui.home.DataSource
 
 
 class HomeActivity : BaseActivity() {
@@ -26,6 +27,8 @@ class HomeActivity : BaseActivity() {
         val navController = navHostFragment.navController
 
         binding.bottomNav.setupWithNavController(navController)
+
+        DataSource.addDummyWorkExperience()
     }
 
 }

@@ -17,5 +17,10 @@
     <string name="software_engineer">Software Engineer</string>
     <string name="career_note">Career note</string>
     <string name="career_note_text"><b>Completed</b> on-campus studies and currently taking distance education course in computer a Master\'s degree in Computer Science (Available for full-time, <b>W-2</b> employment)</string>
+    <string name="add_work_experience">Add Work Experience</string>
+    <string name="experience_title">Experience Title</string>
+    <string name="experience_description">Experience Description</string>
+    <string name="add">Add</string>
+    <string name="add_new_work_experience_button">Add new work experience button</string>
 
 </resources>

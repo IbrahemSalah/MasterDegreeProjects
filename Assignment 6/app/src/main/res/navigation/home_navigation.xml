@@ -9,7 +9,11 @@
         android:id="@+id/homeFragment"
         android:name="com.android.assignment6.ui.home.HomeFragment"
         android:label="fragment_home"
-        tools:layout="@layout/fragment_home" />
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_homeFragment_to_addWorkExperienceFragment"
+            app:destination="@id/addWorkExperienceFragment" />
+    </fragment>
 
     <fragment
         android:id="@+id/workFragment"
@@ -28,4 +32,9 @@
         android:name="com.android.assignment6.ui.aboutme.AboutMeFragment"
         android:label="fragment_about_me"
         tools:layout="@layout/fragment_about_me" />
+    <fragment
+        android:id="@+id/addWorkExperienceFragment"
+        android:name="com.android.assignment6.ui.addworkexperience.AddWorkExperienceFragment"
+        android:label="fragment_add_work_experience"
+        tools:layout="@layout/fragment_add_work_experience" />
 </navigation>
