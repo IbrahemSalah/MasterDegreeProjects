@@ -1,18 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
     tools:context=".ui.aboutme.AboutMeFragment">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16sp"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/about_me"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold" />
 
     <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
         xmlns:app="http://schemas.android.com/apk/res-auto"
         xmlns:tools="http://schemas.android.com/tools"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context=".MainActivity"
-        android:layout_margin="5dp"
-        >
+        android:layout_margin="24dp"
+        tools:context=".MainActivity">
 
         <RelativeLayout
             android:id="@+id/aboutMe"
@@ -20,25 +32,23 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="10dp"
             android:background="@drawable/shape"
-            android:padding="10dp"
-            >
+            android:padding="10dp">
+
             <TextView
                 android:id="@+id/aboutMeHeader"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="About Me"
-                android:textSize="40dp"
                 android:textColor="@android:color/black"
-                />
+                android:textSize="40dp" />
 
             <TextView
                 android:id="@+id/aboutMeDescription"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_below="@id/aboutMeHeader"
-                android:textColor="@android:color/black"
                 android:text="One year of professional experience in software engineering using .NET and customizing Microsoft Dynamics 365 platform."
-                />
+                android:textColor="@android:color/black" />
 
         </RelativeLayout>
 
@@ -49,107 +59,103 @@
             android:layout_below="@id/aboutMe"
             android:layout_marginBottom="10dp"
             android:background="@drawable/shape"
-            android:padding="10dp"
-            >
+            android:padding="10dp">
+
             <TextView
                 android:id="@+id/educationHeader"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Education"
-                android:textSize="40dp"
                 android:textColor="@android:color/black"
-                />
+                android:textSize="40dp" />
+
             <TextView
                 android:id="@+id/educationMyCollege"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_below="@id/educationHeader"
-                android:text="My Collage"
-                android:textSize="10dp"
                 android:layout_marginBottom="5dp"
-                />
+                android:text="My Collage"
+                android:textSize="10dp" />
 
             <RelativeLayout
+                android:id="@+id/educationGroup1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/educationGroup1"
-                android:layout_below="@id/educationMyCollege"
-                >
+                android:layout_below="@id/educationMyCollege">
+
                 <ImageView
+                    android:id="@+id/education1Image"
                     android:layout_width="60dp"
                     android:layout_height="60dp"
-                    android:src="@drawable/miulogo"
-                    android:id="@+id/education1Image"
-                    android:layout_alignParentTop="true"
                     android:layout_alignParentLeft="true"
+                    android:layout_alignParentTop="true"
                     android:layout_marginRight="10dp"
-                    />
+                    android:src="@drawable/miulogo" />
 
                 <RelativeLayout
+                    android:id="@+id/educationDescription1Group"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:id="@+id/educationDescription1Group"
-                    android:layout_toEndOf="@+id/education1Image"
-                    >
+                    android:layout_toEndOf="@+id/education1Image">
+
                     <TextView
                         android:id="@+id/educationDescription1"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:textColor="@android:color/black"
-                        android:textSize="20dp"
                         android:text="Maharishi International University"
-                        />
+                        android:textColor="@android:color/black"
+                        android:textSize="20dp" />
 
                     <TextView
                         android:id="@+id/educationDescription1Degree"
-                        android:layout_below="@+id/educationDescription1"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
+                        android:layout_below="@+id/educationDescription1"
                         android:text="Masters of Science of Computer Science"
-                        android:textSize="12dp"
-                        />
+                        android:textSize="12dp" />
 
                 </RelativeLayout>
 
             </RelativeLayout>
+
             <RelativeLayout
+                android:id="@+id/educationGroup2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:id="@+id/educationGroup2"
                 android:layout_below="@id/educationGroup1"
-                android:layout_marginTop="10dp"
-                >
+                android:layout_marginTop="10dp">
+
                 <ImageView
+                    android:id="@+id/education2Image"
                     android:layout_width="60dp"
                     android:layout_height="60dp"
-                    android:src="@drawable/justlogo"
-                    android:id="@+id/education2Image"
-                    android:layout_alignParentTop="true"
                     android:layout_alignParentLeft="true"
+                    android:layout_alignParentTop="true"
                     android:layout_marginRight="10dp"
-                    />
+                    android:src="@drawable/justlogo" />
+
                 <RelativeLayout
+                    android:id="@+id/educationDescription2Group"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:id="@+id/educationDescription2Group"
-                    android:layout_toEndOf="@+id/education2Image"
-                    >
+                    android:layout_toEndOf="@+id/education2Image">
+
                     <TextView
                         android:id="@+id/educationDescription2"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:textColor="@android:color/black"
-                        android:textSize="20dp"
                         android:text="Jordan University of Science and Technology"
-                        />
+                        android:textColor="@android:color/black"
+                        android:textSize="20dp" />
+
                     <TextView
                         android:id="@+id/educationDescription2Degree"
-                        android:layout_below="@+id/educationDescription2"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
+                        android:layout_below="@+id/educationDescription2"
                         android:text="Bachelor of Computer Science"
-                        android:textSize="12dp"
-                        />
+                        android:textSize="12dp" />
                 </RelativeLayout>
             </RelativeLayout>
 
@@ -162,43 +168,39 @@
             android:layout_below="@id/education"
             android:layout_marginBottom="10dp"
             android:background="@drawable/shape"
-            android:padding="10dp"
-            >
+            android:padding="10dp">
+
             <TextView
                 android:id="@+id/certificationHeader"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Certification"
-                android:textSize="40dp"
                 android:textColor="@android:color/black"
-                />
+                android:textSize="40dp" />
 
             <RelativeLayout
                 android:id="@+id/certificationGroup1"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_below="@+id/certificationHeader"
-                >
+                android:layout_below="@+id/certificationHeader">
 
                 <ImageView
                     android:id="@+id/certificate1Image"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
-                    android:src="@drawable/certificate"
-                    android:layout_alignParentTop="true"
                     android:layout_alignParentLeft="true"
+                    android:layout_alignParentTop="true"
                     android:layout_marginRight="10dp"
-                    />
+                    android:src="@drawable/certificate" />
 
                 <TextView
                     android:id="@+id/certificationDescription1"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:textColor="@android:color/black"
+                    android:layout_marginTop="10dp"
                     android:layout_toEndOf="@+id/certificate1Image"
                     android:text="Complete C# Masterclass"
-                    android:layout_marginTop="10dp"
-                    />
+                    android:textColor="@android:color/black" />
 
             </RelativeLayout>
 
@@ -207,28 +209,25 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_below="@+id/certificationGroup1"
-                android:layout_marginTop="10dp"
-                >
+                android:layout_marginTop="10dp">
 
                 <ImageView
                     android:id="@+id/certificate2Image"
                     android:layout_width="50dp"
                     android:layout_height="50dp"
-                    android:src="@drawable/certificate"
-                    android:layout_alignParentTop="true"
                     android:layout_alignParentLeft="true"
+                    android:layout_alignParentTop="true"
                     android:layout_marginRight="10dp"
-                    />
+                    android:src="@drawable/certificate" />
 
                 <TextView
                     android:id="@+id/certificationDescription2"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:textColor="@android:color/black"
+                    android:layout_marginTop="10dp"
                     android:layout_toEndOf="@+id/certificate2Image"
                     android:text="Java Programming Masterclass updated to Java 17"
-                    android:layout_marginTop="10dp"
-                    />
+                    android:textColor="@android:color/black" />
 
             </RelativeLayout>
 
@@ -236,4 +235,4 @@
 
     </RelativeLayout>
 
-</FrameLayout>
+</androidx.appcompat.widget.LinearLayoutCompat>
