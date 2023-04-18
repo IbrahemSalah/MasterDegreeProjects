@@ -15,5 +15,5 @@
     <color name="colorAccent">#D81B60</color>
     <color name="defaultTextColor">#00004B</color>
     <color name="dialogBackground">#e8ecf2</color>
-    <color name="grey">#D2D0C9</color>
+    <color name="grey">#888784</color>
 </resources>

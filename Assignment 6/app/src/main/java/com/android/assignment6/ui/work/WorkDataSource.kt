@@ -3,7 +3,7 @@ package com.android.assignment6.ui.work
 object WorkDataSource {
     val comp1 = CompanyDataClass(
     "Facebook",
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png"
+    "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/2048px-Facebook_f_logo_%282021%29.svg.png"
     )
     val comp2 = CompanyDataClass(
     "Microsoft Corporation",
@@ -11,11 +11,11 @@ object WorkDataSource {
     )
     val comp3 = CompanyDataClass(
     "Apple",
-    "https://alchemyimmersive.com/wp-content/uploads/sites/4/2020/04/apple-logo-transparent.png"
+    "https://www.vectorlogo.zone/logos/apple/apple-ar21.png"
     )
     val comp4 = CompanyDataClass(
     "Tesla",
-    "https://cdn.worldvectorlogo.com/logos/tesla-motors.svg"
+    "https://logos-world.net/wp-content/uploads/2020/10/Tesla-Logo.png"
     )
 
     var workList = arrayListOf<WorkDataClass>(
