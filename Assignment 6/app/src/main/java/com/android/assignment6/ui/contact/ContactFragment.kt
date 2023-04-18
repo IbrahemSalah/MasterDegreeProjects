@@ -36,7 +36,7 @@ class ContactFragment : BaseViewModelFragment<HomeViewModel, FragmentContactBind
 
         var ad_ob = ContactAdapter(contacts)
         // binding.rcv.layoutManager = GridLayoutManager(getActivity(),2)
-        binding.rcv.layoutManager = LinearLayoutManager(getActivity())
+        binding.rcv.layoutManager = LinearLayoutManager(activity)
         binding.rcv.adapter = ad_ob
         return binding.root
     }
